@@ -15,7 +15,20 @@
             "description": "Type the Session-ID",
             "required": true,
             "value": ""
-        }
+        },
+           "prefix": {
+      "description": "Put the prefix here.",
+      "required": 
+    },
+    "AUTO_READ_STATUS": {
+      "description": "Put the true or fales here.",
+      "required": 
+    },
+    "ANTI_DELETE": {
+      "description": "Put the true or fales here.",
+      "required": 
+    }
+},
     },
     "buildpacks": [
         {
