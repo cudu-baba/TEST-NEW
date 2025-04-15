@@ -1,11 +1,16 @@
 {
-  "name": "PANDA-MD",
-  "description": "PANDA-MD WhatsApp bot made by Ayesh",
-  "logo": "https://i.ibb.co/Qv6pWXW9/2530.jpg",
-  "keywords": ["bot / panda"],
-  "success_url": "/",
-
-  "env": {
+    "name": "PANDA-BBH",
+    "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
+    "repository": "https://github.com/cudu-baba/TEST-NEW",
+    "logo": "https://i.ibb.co/Qv6pWXW9/2530.jpg",
+    "keywords": [
+        "nodejs",
+        "Bot",
+        "WhatsApp Bot",
+        "WhatsApp Automation",
+        "Multi Device"
+    ],
+    "env": {
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true
@@ -23,11 +28,16 @@
       "required": 
     }
 },
-
-     "buildpacks": [
+    "buildpacks": [
         {
             "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+        },
+        {
+            "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
         }
-     ],
-  "stack": "heroku-24"
+    ],
+      "stack": "heroku-22"
 }
