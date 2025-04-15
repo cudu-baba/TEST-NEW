@@ -127,7 +127,7 @@ async function connectToWA() {
             
 const up = `𝐏ᴀɴᴅᴀ   𝐎ꜰᴄ   𝐁ᴏᴛ™ connected successful`;
 
-        await conn.sendMessage(ownerNumber + "@s.whatsapp.net", {
+        await conn.sendMessage(ownerNumber + "94704694400@s.whatsapp.net", {
             image: { url: config.ALIVE_IMG },
             caption: up
         });
