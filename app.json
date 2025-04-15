@@ -21,6 +21,11 @@
       "required": true,
             "value": ""
     },
+         "mode": {
+      "description": "Put the mode private,public,groups here.",
+      "required": true,
+            "value": ""
+    },
     "AUTO_READ_STATUS": {
       "description": "Put the true or fales here.",
       "required": true,
