@@ -1,8 +1,8 @@
 {
-    "name": "PANDA-BBH",
+    "name": "MOVIE-VISPER",
     "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
-    "repository": "https://github.com/cudu-baba/TEST-NEW",
-    "logo": "https://i.ibb.co/Qv6pWXW9/2530.jpg",
+    "repository": "https://github.com/sadasthemi/MOVIE-VISPER",
+    "logo": "https://mv-visper-full-db.pages.dev/Data/visper_main.jpeg",
     "keywords": [
         "nodejs",
         "Bot",
@@ -11,23 +11,12 @@
         "Multi Device"
     ],
     "env": {
-    "SESSION_ID": {
-      "description": "Put the session-id here.",
-      "required": true
-   },
-    "prefix": {
-      "description": "Put the prefix here.",
-      "required": 
+        "SESSION_ID": {
+            "description": "Type the Session-ID",
+            "required": true,
+            "value": ""
+        }
     },
-    "AUTO_READ_STATUS": {
-      "description": "Put the true or fales here.",
-      "required": 
-    },
-    "ANTI_DELETE": {
-      "description": "Put the true or fales here.",
-      "required": 
-    }
-},
     "buildpacks": [
         {
             "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
