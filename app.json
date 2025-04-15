@@ -18,15 +18,18 @@
         },
            "prefix": {
       "description": "Put the prefix here.",
-      "required": 
+      "required": true,
+            "value": ""
     },
     "AUTO_READ_STATUS": {
       "description": "Put the true or fales here.",
-      "required": 
+      "required": true,
+            "value": ""
     },
     "ANTI_DELETE": {
       "description": "Put the true or fales here.",
-      "required": 
+      "required": true,
+            "value": ""
     }
 },
     },
