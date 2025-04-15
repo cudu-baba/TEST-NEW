@@ -12,8 +12,16 @@
    },
     "prefix": {
       "description": "Put the prefix here.",
-      "required": true
+      "required": 
     },
+    "AUTO_READ_STATUS": {
+      "description": "Put the true or fales here.",
+      "required": 
+    },
+    "ANTI_DELETE": {
+      "description": "Put the true or fales here.",
+      "required": 
+    }
 },
 
      "buildpacks": [
