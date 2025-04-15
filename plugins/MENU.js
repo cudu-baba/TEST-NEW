@@ -47,29 +47,28 @@ _*🌟 Reply with the Number you want to select*_
                         reply(`*◈╾──────OWNER COMMAND LIST──────╼◈*
 
 *➟➟➟➟➟➟➟➟_📑_*
-│ • *restart* 
+│ • *pair* 
 *➟➟➟➟➟➟➟➟_📑_*
 *➟➟➟➟➟➟➟➟_📑_*
 │ • *boom* 
 *➟➟➟➟➟➟➟➟_📑_*
+*➟➟➟➟➟➟➟➟_📑_*
+│ • *vv* 
+*➟➟➟➟➟➟➟➟_📑_*
+
 
 > 𝐏ᴀɴᴅᴀ   𝐎ꜰᴄ   𝐁ᴏᴛ™`);
                         break;
                     case '2':               
                         reply(`*◈╾──────TRANSLATE COMMAND LIST──────╼◈*
 
-*➟➟➟➟➟➟➟➟_📑_*
-│ • *trt* 
-*➟➟➟➟➟➟➟➟_📑_*
+*COMING SOON*
 
 > 𝐏ᴀɴᴅᴀ   𝐎ꜰᴄ   𝐁ᴏᴛ™`);
                         break;
                     case '3':               
                         reply(`*◈╾──────AI COMMAND LIST──────╼◈*
-
-*➟➟➟➟➟➟➟➟_📑_*
-│ • *ai* 
-*➟➟➟➟➟➟➟➟_📑_*
+*COMING SOON*
 
 > 𝐏ᴀɴᴅᴀ   𝐎ꜰᴄ   𝐁ᴏᴛ™`);
                         break;
@@ -77,7 +76,7 @@ _*🌟 Reply with the Number you want to select*_
                         reply(`*◈╾──────GET COMMAND LIST──────╼◈*
 
 *➟➟➟➟➟➟➟➟_📑_*
-│ • *yts* 
+│ • *cine* 
 *➟➟➟➟➟➟➟➟_📑_*
 *➟➟➟➟➟➟➟➟_📑_*
 │ • *tourl* 
@@ -102,22 +101,13 @@ _*🌟 Reply with the Number you want to select*_
 │ • *mediafire* 
 *➟➟➟➟➟➟➟➟_📑_*
 *➟➟➟➟➟➟➟➟_📑_*
-│ • *fb* 
-*➟➟➟➟➟➟➟➟_📑_*
-*➟➟➟➟➟➟➟➟_📑_*
-│ • *td* 
-*➟➟➟➟➟➟➟➟_📑_*
-*➟➟➟➟➟➟➟➟_📑_*
 │ • *song* 
-*➟➟➟➟➟➟➟➟_📑_*
-*➟➟➟➟➟➟➟➟_📑_*
-│ • *mega* 
 *➟➟➟➟➟➟➟➟_📑_*
 *➟➟➟➟➟➟➟➟_📑_*
 │ • *tiktok* 
 *➟➟➟➟➟➟➟➟_📑_*
 *➟➟➟➟➟➟➟➟_📑_*
-│ • *img* 
+│ • *tiktok2* 
 *➟➟➟➟➟➟➟➟_📑_*
 *➟➟➟➟➟➟➟➟_📑_*
 │ • *xvdl* 
@@ -138,9 +128,6 @@ _*🌟 Reply with the Number you want to select*_
 *➟➟➟➟➟➟➟➟_📑_*
 *➟➟➟➟➟➟➟➟_📑_*
 │ • *ping* 
-*➟➟➟➟➟➟➟➟_📑_*
-*➟➟➟➟➟➟➟➟_📑_*
-│ • *vv* 
 *➟➟➟➟➟➟➟➟_📑_*
 
 > 𝐏ᴀɴᴅᴀ   𝐎ꜰᴄ   𝐁ᴏᴛ™`);
@@ -181,25 +168,17 @@ _*🌟 Reply with the Number you want to select*_
 *➟➟➟➟➟➟➟➟_📑_*
 │ • *getdec* 
 *➟➟➟➟➟➟➟➟_📑_*
+*➟➟➟➟➟➟➟➟_📑_*
+│ • *kickall* 
+*➟➟➟➟➟➟➟➟_📑_*
+
 
 > 𝐏ᴀɴᴅᴀ   𝐎ꜰᴄ   𝐁ᴏᴛ™`);
                        break;
                     case '8':               
                         reply(`*◈╾──────DIRECT LINK DOWNLOAD COMMAND LIST──────╼◈*
 
-*➟➟➟➟➟➟➟➟_📑_*
-│ • *upmv*
-*➟➟➟➟➟➟➟➟_📑_*
-│ • *upme* 
-*➟➟➟➟➟➟➟➟_📑_*
-*➟➟➟➟➟➟➟➟_📑_*
-│ • *upzip* 
-*➟➟➟➟➟➟➟➟_📑_*
-*➟➟➟➟➟➟➟➟_📑_*
-│ • *mkv* 
-*➟➟➟➟➟➟➟➟_📑_*
-│ • *uptv* 
-*➟➟➟➟➟➟➟➟_📑_*
+*SOMING SOON*
 
 > 𝐏ᴀɴᴅᴀ   𝐎ꜰᴄ   𝐁ᴏᴛ™`);
 
