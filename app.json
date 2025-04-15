@@ -1,8 +1,8 @@
 {
   "name": "PANDA-MD",
-  "description": "PANDA-MD WhatsApp bot made by Ayesh Pakaya",
-  "logo": "https://i.ibb.co/ZzFHZqX7/SulaMd.jpg",
-  "keywords": ["bot / Sula"],
+  "description": "PANDA-MD WhatsApp bot made by Ayesh",
+  "logo": "https://i.ibb.co/Qv6pWXW9/2530.jpg",
+  "keywords": ["bot / panda"],
   "success_url": "/",
 
   "env": {
